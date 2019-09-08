@@ -1,11 +1,16 @@
-# Representation theory of Algebra Group @ Tsinghua Univeristy
+# Representation theory of Algebra Group
 
 ## Group member
 1.__邓邦明__
-2.__邱宇__ [yu.qiu@bath.edu]()  <br> 
+
+2.__邱宇__ 
+
 3.__肖杰__
+
 4.__徐帆__
-5。__周宇__
+
+5.__周宇__
+
 6.__朱斌__
 
 ## Research interest: 
